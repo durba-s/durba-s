@@ -12,9 +12,11 @@
 ## 👨‍💻 About Me
 
 - 💼 Currently working as **Data Scientist @ Microsoft AI**
-- 💼 Previously interned at **Intuit, Uber, and Happiest Minds Technologies**
-- 🎓 Graduated from **BITS Pilani (CS Major + DS Minor)**
-- 📫 Reach me at: **durba.satpathi@gmail.com**
+- 🧑‍💻 Previously interned at **Intuit, Uber, and Happiest Minds Technologies**
+- 🎓 Graduated from **BITS Pilani — CS Major + Data Science Minor**
+- 📫 Reach me: **durba.satpathi@gmail.com**  
+- 📝 My Website: **[durba-s.github.io](https://durba-s.github.io)**  
+
 
 ---
 
