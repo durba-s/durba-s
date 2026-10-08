@@ -11,7 +11,8 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Currently working as **Data Scientist @ Microsoft AI**
+- 🎓 MSCS @ CMU
+- 💼 Ex-**Data Scientist 2 @ Microsoft AI**
 - 🧑‍💻 Previously interned at **Intuit, Uber, and Happiest Minds Technologies**
 - 🎓 Graduated from **BITS Pilani — CS Major + Data Science Minor**
 - 📫 Reach me: **durba.satpathi@gmail.com**  
