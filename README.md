@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <em>• Reinforcement Learning • Multi-Objective Optimization • Game Theory</em>
+  <em>• Database Systems • Multi-Objective Optimization • Deep Learning Systems</em>
 </p>
 
 ---
